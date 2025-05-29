@@ -1,0 +1,3 @@
+[submodule "monolith"]
+	path = deps/monolith
+	url = git@github.com:Cerebras/monolith.git
